@@ -13,3 +13,4 @@
 # [欧美点这里](https://v.i7s.me/us/)
 # [日韩点这里](https://v.i7s.me/jp/)
 # [国产点这里](https://v.i7s.me/cn/)
+# [动漫点这里](https://v.i7s.me/anime)
